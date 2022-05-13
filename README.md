@@ -22,8 +22,10 @@ in progress
 + Spring Boot
 + Maven
 + PostgreSQL
++ HTML
++ CSS
 + React
-Typescript
++ Typescript
 
 ## 🌱 Starters
 + Spring WEB
