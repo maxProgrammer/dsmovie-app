@@ -24,6 +24,7 @@ in progress
 + PostgreSQL
 + HTML
 + CSS
++ Boostrap
 + React
 + Typescript
 
