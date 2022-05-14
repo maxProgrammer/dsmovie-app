@@ -5,7 +5,7 @@
 ### REST API using spring boot and Frontend using React. This API is used to evaluate movies.
 
 <h1 align="center">
-  <img alt="Readme" title="Readme" src="https://user-images.githubusercontent.com/87916631/168407449-a6f3ae5e-b9f7-4ff9-9e72-ca8a24f7cf44.JPG"/>
+  <img alt="Readme" title="Readme" src="https://user-images.githubusercontent.com/87916631/168407779-9eb876a0-37fb-4da9-b6d0-250f85c386e7.gif"/>
 </h1>
 
 ## 🔘 Fields of Model are:
