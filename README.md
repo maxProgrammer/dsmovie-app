@@ -2,7 +2,7 @@
 
 > Status: Construction 🚧
 
-### REST API using spring boot and Frontend using React. This API is used to evaluate movie.
+### REST API using spring boot and Frontend using React. This API is used to evaluate movies.
 
 <h1 align="center">
   <img alt="Readme" title="Readme" src="https://user-images.githubusercontent.com/87916631/168407449-a6f3ae5e-b9f7-4ff9-9e72-ca8a24f7cf44.JPG"/>
