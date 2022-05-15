@@ -18,4 +18,20 @@ public class Score {
     public void setUser(User user){
         id.setUser(user);
     }
+
+    public ScorePK getId() {
+        return id;
+    }
+
+    public void setId(ScorePK id) {
+        this.id = id;
+    }
+
+    public Double getValue() {
+        return value;
+    }
+
+    public void setValue(Double value) {
+        this.value = value;
+    }
 }
