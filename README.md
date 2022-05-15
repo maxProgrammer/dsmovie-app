@@ -31,7 +31,8 @@ in progress
 ## 🌱 Starters
 + Spring WEB
 + Validation
-+ Spring MongoDB
++ Spring JPA
++ Spring Postgres Connector
 + Lombok
 + Swagger UI
 
