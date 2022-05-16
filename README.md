@@ -2,7 +2,7 @@
 
 > Status: Construction 🚧
 
-### REST API using spring boot and Frontend using React. This API is used to evaluate movies.
+### App responsible to review movies. The REST API was developed with Java and Spring boot and the frontend was developed with HTML, CSS, Bootstrap and React.
 
 <h1 align="center">
   <img alt="Readme" title="Readme" src="https://user-images.githubusercontent.com/87916631/168407779-9eb876a0-37fb-4da9-b6d0-250f85c386e7.gif"/>
