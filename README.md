@@ -1,11 +1,11 @@
 # 📺 dsmovie-app 📺
 
-> Status: Construction 🚧
+> Status: Completed ✅
 
 ### App responsible to review movies. The REST API was developed with Java and Spring boot and the frontend was developed with HTML, CSS, Bootstrap and React.
 
 <h1 align="center">
-  <img alt="Readme" title="Readme" src="https://user-images.githubusercontent.com/87916631/168407779-9eb876a0-37fb-4da9-b6d0-250f85c386e7.gif"/>
+  <img alt="Readme" title="Readme" src="https://user-images.githubusercontent.com/87916631/168605913-fadfb217-5d67-41ae-8eda-c447e18eb550.gif"/>
 </h1>
 
 ## 🔘 Fields of MovieModel are:
